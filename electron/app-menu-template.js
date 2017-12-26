@@ -74,7 +74,7 @@ const appMenuTemplate = [
     submenu: [
       {
         label: 'GitHub Repository',
-        click () { shell.openExternal('https://github.com/manosim/gitify'); }
+        click () { shell.openExternal('https://github.com/sniperkit/gitify'); }
       },
       {
         label: 'Visit Website',

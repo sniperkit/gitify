@@ -1,12 +1,12 @@
 # Gitify [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url] [![downloads][downloads-image]][downloads-url]
 
-> If you are looking for the mobile version - [manosim/gitify-mobile](https://github.com/manosim/gitify-mobile/).
+> If you are looking for the mobile version - [manosim/gitify-mobile](https://github.com/sniperkit/gitify-mobile/).
 
 ![Gitify](images/press.jpg)
 
 
 ### Download
-You can download Gitify for **free** from either the website [www.gitify.io](http://www.gitify.io/) or from the GitHub repository [releases](https://github.com/manosim/gitify/releases) page.
+You can download Gitify for **free** from either the website [www.gitify.io](http://www.gitify.io/) or from the GitHub repository [releases](https://github.com/sniperkit/gitify/releases) page.
 
 You can also install Gitify via [Homebrew Cask](http://caskroom.io/)
 

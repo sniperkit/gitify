@@ -4,11 +4,11 @@ export default {
 
   DEFAULT_AUTH_OPTIONS: {
     hostname: 'github.com',
-    clientId: '3fef4433a29c6ad8f22c',
-    clientSecret: '9670de733096c15322183ff17ed0fc8704050379',
+    clientId: 'bfdf49a4bbc3e698af57',
+    clientSecret: '5faa9a2c48604d1c534a67474fd5c24b738f3120',
   },
 
-  REPO_SLUG: 'manosim/gitify',
+  REPO_SLUG: 'sniperkit/gitify',
 
   // Storage
   STORAGE_KEY: 'gitify-storage',
